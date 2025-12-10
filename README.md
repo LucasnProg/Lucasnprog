@@ -37,7 +37,7 @@ My engineering philosophy is built on **discipline** (a core value from my time 
 | Project | Description & Impact | Stack |
 | :--- | :--- | :--- |
 | **🔍 AI Tax Classification** <br> _(Research Project)_ | Machine learning model developed to automate the classification of taxable products based on fiscal descriptions. Reduces manual overhead in public administration. | `Python` `Pandas` `XGBoost` `Scikit-learn` |
-| **📊 Public Health Dashboard** <br> _(NUTES)_ | **[In Development]** A comparative analysis system for research data in Paraíba state. Focus on data visualization and high-performance querying. | `React` `TypeScript` `Sanic` `PostgreSQL` |
+| **📊 Researchs Dashboard** <br> _(NUTES)_ | **[In Development]** A comparative analysis system for research data in Paraíba state. Focus on data visualization and high-performance querying. | `React` `TypeScript` `Sanic` `PostgreSQL` |
 | **🧪 Test Management Tool** | A full-stack solution to manage testing cycles. Features containerized deployment and strict typing for reliability. | `React` `Node.js` `Docker` `TypeScript` |
 | **🎮 Memory Game** <br> [:link: Live Demo](#) | Interactive web game featuring authentication logic and state management without heavy frameworks. | `HTML5` `CSS3` `TypeScript` |
 
